@@ -1,0 +1,14 @@
+{
+  "name": "epfiot-bss",
+  "version": "1.0.0",
+  "description": "simple bss server using PeterEB library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lwm2m-bs-server": "0.0.4"
+  }
+}
